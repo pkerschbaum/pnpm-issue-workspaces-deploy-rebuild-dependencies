@@ -1,0 +1,12 @@
+{
+  "name": "monorepo-root",
+  "scripts": {
+    "clean": "del-cli \"**/node_modules\" \"**/package-a-deployed\""
+  },
+  "devDependencies": {
+    "del-cli": "^5.0.0"
+  },
+  "engines": {
+    "pnpm": "7.30.0"
+  }
+}
