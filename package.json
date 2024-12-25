@@ -6,7 +6,8 @@
   "devDependencies": {
     "del-cli": "^5.0.0"
   },
+  "packageManager": "pnpm@9.15.1",
   "engines": {
-    "pnpm": "7.30.0"
+    "pnpm": "9.15.1"
   }
 }
